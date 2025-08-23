@@ -1,4 +1,4 @@
-# Motion Market  
+# SOUNDBLOCK  
 ![image alt](https://github.com/popstarmav/Motion_Market/blob/25629c10d4268a579286a2356fb71137ca3c5e41/flowchart.png)
 **A cutting-edge real-time graphics marketplace built on GLFW, delivering seamless cross-platform rendering and intuitive asset management.**  
 ---
@@ -17,11 +17,11 @@ This coin goes beyond being just a digital currency—it’s a way for fans to e
 
 ---
 
-## 🚀 About Motion Market  
+## 🚀 About SOUNDBLOCK  
 
-**Motion Market** is a cutting-edge real-time graphics marketplace built on GLFW, delivering seamless cross-platform rendering and intuitive asset management.  
+**SOUNDBLOCK** is a cutting-edge real-time graphics marketplace built on GLFW, delivering seamless cross-platform rendering and intuitive asset management.  
 
-While **$MOIN** has officially launched, work on the **Motion Market** app is ongoing. Once completed, the platform will enable seamless integration with $MOIN, creating a powerful ecosystem where technology meets fan engagement.
+While **$MOIN** has officially launched, work on the **SOUNDBLOCK** app is ongoing. Once completed, the platform will enable seamless integration with $MOIN, creating a powerful ecosystem where technology meets fan engagement.
 
 GO BUY NOW :: 3pmeQpadY1A97ouML8ky4FjE7DDjuxFLf836bgoypump
 
@@ -37,7 +37,7 @@ GO BUY NOW :: 3pmeQpadY1A97ouML8ky4FjE7DDjuxFLf836bgoypump
 - **Multi-Monitor Support**  
   Optimized for professional workflows with advanced multi-display configurations.  
 
-### Coming Soon: Motion Market App Features  
+### Coming Soon: SOUNDBLOCK App Features  
 - **$MOIN Integration**  
   Use $MOIN to purchase assets, support creators, and unlock exclusive features.  
 - **Decentralized Asset Marketplace**  
@@ -54,7 +54,7 @@ GO BUY NOW :: 3pmeQpadY1A97ouML8ky4FjE7DDjuxFLf836bgoypump
 Our mission is to create a comprehensive marketplace for real-time graphics while building on the potential of **$MOIN** to revolutionize fan engagement.  
 
 Here’s what’s next:  
-- Expanding the **Motion Market App** with advanced rendering pipelines and intuitive asset workflows.  
+- Expanding the **SOUNDBLOCK** with advanced rendering pipelines and intuitive asset workflows.  
 - Building community tools and plugins to encourage user creativity.  
 - Expanding $MOIN's utility in Motion Market and beyond.  
 
