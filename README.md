@@ -1,74 +1,67 @@
-# Motion Market  
-![image alt](https://github.com/popstarmav/Motion_Market/blob/25629c10d4268a579286a2356fb71137ca3c5e41/flowchart.png)
-**A cutting-edge real-time graphics marketplace built on GLFW, delivering seamless cross-platform rendering and intuitive asset management.**  
----
+# 🎧 SoundBlock  
+![image alt](https://github.com/popstarmav/SoundBlock/blob/main/flowchart.png)
 
-## 🎉 $MOIN Is Live!  
-
-We’re excited to announce the official **launch of $MOIN**, a new **memecoin** designed for fans of celebrities, streamers, gamers, and sports teams.  
-
-Whether you're a hardcore gamer, an avid sports fan, or a follower of your favorite online personalities, **$MOIN** is for you!  
-
-This coin goes beyond being just a digital currency—it’s a way for fans to engage, support, and celebrate the communities they love.  
-
-**Get ready to ride the wave with $MOIN—the coin of the fans, by the fans, and for the fans.**  
-
-✨ **$MOIN is now live and ready for you to join the revolution!**  
+**A blockchain-powered platform merging music, ownership, and creativity.**  
+SoundBlock gives artists, producers, and listeners the tools to create, share, and earn directly through decentralized technology.
 
 ---
 
-## 🚀 About Motion Market  
+## 🔊 What Is SoundBlock  
 
-**Motion Market** is a cutting-edge real-time graphics marketplace built on GLFW, delivering seamless cross-platform rendering and intuitive asset management.  
+**SoundBlock** transforms how music and digital assets are created, owned, and distributed.  
+Built on blockchain technology, it allows creators to tokenize their music, share royalties transparently, and collaborate without intermediaries.  
 
-While **$MOIN** has officially launched, work on the **Motion Market** app is ongoing. Once completed, the platform will enable seamless integration with $MOIN, creating a powerful ecosystem where technology meets fan engagement.
-
-GO BUY NOW :: 3pmeQpadY1A97ouML8ky4FjE7DDjuxFLf836bgoypump
+With SoundBlock, you can:  
+- **Tokenize** music, samples, or stems as unique digital assets.  
+- **Earn royalties** automatically through smart contracts.  
+- **Buy, sell, or license** verified sound assets on-chain.  
+- **Collaborate globally** with secure ownership and transparent credit.  
 
 ---
 
-## ✨ Core Features  
+## 🚀 Core Features  
 
 ### Current Features  
-- **Real-Time Asset Previews**  
-  Leverage OpenGL/Vulkan for high-performance, real-time asset rendering.  
-- **Cross-Platform Compatibility**  
-  Built on GLFW for consistent performance on Windows, macOS, and Linux.  
-- **Multi-Monitor Support**  
-  Optimized for professional workflows with advanced multi-display configurations.  
+- **Decentralized Music Ownership**  
+  Mint and manage your music as blockchain-based assets.  
+- **Royalty Distribution**  
+  Automated, transparent payment flows for every stream or purchase.  
+- **On-Chain Metadata**  
+  Keep track of creator credits, production data, and sample origins.  
 
-### Coming Soon: Motion Market App Features  
-- **$MOIN Integration**  
-  Use $MOIN to purchase assets, support creators, and unlock exclusive features.  
-- **Decentralized Asset Marketplace**  
-  Blockchain-backed transactions for security and transparency.  
-- **Enhanced Asset Management Tools**  
-  Advanced organization, previews, and export options.  
-- **Mobile App Support**  
-  Access Motion Market features directly from your smartphone.  
-
----
-
-## 🛠️ Future Plans  
-
-Our mission is to create a comprehensive marketplace for real-time graphics while building on the potential of **$MOIN** to revolutionize fan engagement.  
-
-Here’s what’s next:  
-- Expanding the **Motion Market App** with advanced rendering pipelines and intuitive asset workflows.  
-- Building community tools and plugins to encourage user creativity.  
-- Expanding $MOIN's utility in Motion Market and beyond.  
+### Coming Soon  
+- **Creator Dashboard**  
+  Manage music NFTs, royalties, and listener analytics.  
+- **AI Sound Sync Tools**  
+  Match sounds and stems with compatible music and visuals.  
+- **Collaborative Music Spaces**  
+  Work with other artists in real-time using blockchain-secured sessions.  
+- **Mobile Access**  
+  Manage your SoundBlock assets anywhere.  
 
 ---
 
-#### Windows/macOS  
-- CMake 3.0+  
-- A modern C++ compiler (e.g., MSVC, Clang, or GCC).  
+## 🛠️ Future Vision  
 
-#### Linux  
-Ensure the following dependencies are installed:  
-```bash  
-sudo apt install libwayland-dev libxkbcommon-dev xorg-dev  
+SoundBlock aims to redefine the intersection of **music, technology, and ownership**.  
 
+Next steps include:  
+- Integrating with popular DAWs and music production tools.  
+- Launching a decentralized marketplace for sound assets and samples.  
+- Expanding royalty tracking across streaming and live events.  
+- Developing NFT-based licenses for producers and independent artists.  
+
+---
+
+## 🧩 Tech Stack  
+
+- **Blockchain:** Ethereum-compatible smart contracts  
+- **Audio Processing:** Custom engine for sample analysis and tokenization  
+- **Frontend:** React / Next.js  
+- **Backend:** Node.js, Web3.js  
+- **Storage:** IPFS for decentralized audio hosting  
+
+---
 
 ## 📄 License  
 
@@ -77,7 +70,7 @@ sudo apt install libwayland-dev libxkbcommon-dev xorg-dev
 ```
 MIT License
 
-Copyright (c) 2024 Motion_Market
+Copyright (c) 2024 SoundBlock
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -93,11 +86,7 @@ furnished to do so, subject to the following conditions:
 
 ## 📩 Contact  
 
-Have questions or need support? Feel free to reach out:  
+Have questions or want to collaborate?  
 
-- **Email**: [cj.johnson@gmail.com]
-  
-- **GitHub**: [@popstarmav](https://github.com/popstarmav)
-- **Twitter**: [@MotionMktHQ]{https://x.com/MotionMktHQ)
-
----
+- **Email:** [cj.johnson@gmail.com]  
+- **GitHub:** [@popstarmav](https://github.com/popstarmav)  
